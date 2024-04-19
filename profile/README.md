@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-We are a [unique partnership](/#team) of professional practitioners, ready and eager to share [their rich experience](/#what) in transforming
+We are a [unique partnership](#team) of professional practitioners, ready and eager to share [their rich experience](#what) in transforming
  organizations, formulating business development strategies, and (information) technologies, agile culture and DevOps practices, operationa
 l efficiency, and continuous innovation.
 
-We [value speed, openness, and engagement](/#how). We strive to be as transparent and effective as possible.
+We [value speed, openness, and engagement](#how). We strive to be as transparent and effective as possible.
 
 # Team
 
